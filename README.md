@@ -1,0 +1,2 @@
+# XTCWechatMaxFree
+XTCWechatMaxFree
